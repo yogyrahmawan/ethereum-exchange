@@ -1,0 +1,6 @@
+=============== May 7, 2018 (WIB) ===============
+20:16:02.659643 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+20:16:02.665553 db@open opening
+20:16:02.685043 version@stat F·[] S·0B[] Sc·[]
+20:16:02.692089 db@janitor F·2 G·0
+20:16:02.692152 db@open done T·26.554839ms
